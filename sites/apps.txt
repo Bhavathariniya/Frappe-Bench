@@ -1,5 +1,0 @@
-frappe
-library_management
-erpnext
-payments
-hrms

@@ -1,0 +1,20 @@
+# Frappe Bench ignores
+logs/
+sites/
+*.log
+*.pid
+*.rdb
+*.sql.gz
+*.backup
+*.pyc
+__pycache__/
+
+# Node
+node_modules/
+
+# Python env
+env/
+venv/
+
+# OS
+.DS_Store
